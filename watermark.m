@@ -2,7 +2,7 @@
 originalImage = imread('Signature.png'); % Replace 'your_image.jpg' with the actual image file name
 
 % Create a watermark (text in this case)
-watermarkText = 'Snehal Patil';
+watermarkText = 'sujal';
 
 % Convert the image to double for manipulation
 watermarkedImage = double(originalImage);
